@@ -12,4 +12,5 @@ Al ser reacondicionada, cuenta como nueva, los componentes reemplazados son nuev
 Esta otra es de uso, como se menciona anteriormente, lo más importante al comprar un equipo de este modo, es revisarlo minuciosamente para detectar posibles fallas, errores o defectos y así garantizar una buena compra.
 
 > [*Volver*](Tarea1-3.md)
+
 > [*Pag. Principal*](README.md)
