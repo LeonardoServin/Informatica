@@ -6,5 +6,6 @@
 
 <img src="Images/IMG 4.jpg" height="700" width="500">
 
+> [*Siguiente*](Tarea1-3.md)
 
-
+> [*Anterior*](Tarea1-1.md)
