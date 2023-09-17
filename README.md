@@ -1,17 +1,17 @@
-<img src="Images/UAM Logo PNG.png" alt="UAM I" widht="60%"/>
+<img src="Images/UAM Logo PNG.png" alt="UAM I" widht="31%"/>
 
 # INFORMÁTICA
 ## Leonardo Servín Torres
-**Correo Electrónico:** [leonardoservintorres@gmail.com]
+**Correo Electrónico:** leonardoservintorres@gmail.com
 
 **Profesor:** Jesús Zavala Ruíz
 
 ### UNIDAD I
 Introducción:
-- [La computadora y su contexto histórico]
-- [La disciplina de la computación: contexto histórico, evolución e importancia]
-- [Partes y funciones de la computadora]
-- [Adquisición de una computadora]
+- La computadora y su contexto histórico
+- La disciplina de la computación: contexto histórico, evolución e importancia
+- Partes y funciones de la computadora
+- Adquisición de una computadora
 
   ### UNIDAD II
   Software:
