@@ -1,4 +1,4 @@
-<img src="Images/UAM Logo PNG.png" alt="UAM I" width="31%"/>
+<img src="Images/UAM Logo PNG.png" alt="UAM I" width="13%"/>
 
 # INFORMÁTICA
 ## Leonardo Servín Torres
