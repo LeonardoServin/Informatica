@@ -13,5 +13,11 @@ Introducción:
 - Partes y funciones de la computadora
 - Adquisición de una computadora
 
-  ### UNIDAD II
-  Software:
+### UNIDAD II
+Software:
+
+### UNIDAD III
+Sistemas operativos:
+
+### UNIDAD IV
+Bases de datos: 
