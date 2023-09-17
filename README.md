@@ -1,15 +1,17 @@
-# Informatica
+<img src="Images/UAM Logo PNG.png" alt="UAM I" widht="60%"/>
 
+# INFORMÁTICA
+## Leonardo Servín Torres
+**Correo Electrónico:** [leonardoservintorres@gmail.com]
 
-`algoritmo` `proceso` 
+**Profesor:** Jesús Zavala Ruíz
 
+### UNIDAD I
+Introducción:
+- [La computadora y su contexto histórico]
+- [La disciplina de la computación: contexto histórico, evolución e importancia]
+- [Partes y funciones de la computadora]
+- [Adquisición de una computadora]
 
-```
-//suma.psc
-
-//El ejemplo más simple de la ayuda en el PSeInt (2003)
-//Solicita dos números, los suma y muestra el resultado
-
-```
-
-`finalgoritmo` `finproceso`
+  ### UNIDAD II
+  Software:
