@@ -30,3 +30,20 @@ MI NOMBRE EN CÓDIGO:
 ***Japonés: レオナルド・セルビン***
 
 - U+ 30EC 30AA 30CA 30EB 30C9 30FB 30BB 30EB 30D3 30F3
+
+### EMOJIS EN CÓDIGO
+
+🙂 U+1F642
+🖕 U+1F595
+👀 U+1F440
+🙃 U+1F643
+🐶 U+1F436
+🍁 U+1F341
+🐉 U+1F409
+🌙 U+1F319
+🦅 U+1F985
+💩 U+1F4A9
+
+> [*Continuar*](Tarea2-3.md)
+
+> [*Volver*](Tarea2-1.md)
