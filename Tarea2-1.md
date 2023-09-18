@@ -62,3 +62,5 @@ y de otros elementos
     <img src="Images/Mapa1.jpg" height="500">
   
 > [*Continuar*](Tarea2-2.md)
+
+> [*Pag. Principal*](README.md)
