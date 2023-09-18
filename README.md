@@ -15,11 +15,11 @@ Introducción:
 
 ### UNIDAD II
 Software:
-- [Conceptos básicos de Software]()
-- [Sistemas de codificación]()
-- [Pseudocódigo]()
-- [Algoritmos]()
-- [De Pseudocódigo a R]()
+- [Conceptos básicos de Software](Tarea2-1.md)
+- [Sistemas de codificación](Tarea2-2.md)
+- [Pseudocódigo](Tarea2-3.md)
+- [Algoritmos](Tarea2-4.md)
+- [De Pseudocódigo a R](Tarea2-5.md)
 
 ### UNIDAD III
 Sistemas operativos:
