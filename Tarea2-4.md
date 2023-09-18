@@ -124,6 +124,7 @@ FinAlgoritmo
 ```
 
 Diagrama de flujo:
+
 <img src="Images/DF1.png" height="400" width="600">
 
 **Algoritmo 29:**
@@ -202,7 +203,8 @@ FinAlgoritmo
 
 ```
 Diagrama de flujo:
-<img src="Images/DF.png" height="400" width="600">
+
+<img src="Images/DF2.png" height="400" width="600">
 
 
 
