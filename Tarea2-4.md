@@ -123,6 +123,7 @@ FinAlgoritmo
 
 ```
 
+Diagrama de flujo:
 <img src="Images/DF1.png" height="400" width="600">
 
 **Algoritmo 29:**
@@ -200,3 +201,12 @@ Algoritmo Muestreo
 FinAlgoritmo
 
 ```
+Diagrama de flujo:
+<img src="Images/DF.png" height="400" width="600">
+
+
+
+
+> [*Volver*](Tarea2-3.md)
+
+> [*Pág. Principal*](README.md)
