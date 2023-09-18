@@ -13,6 +13,6 @@ Es la agrupación de 8 bits, un patrón con una longitud de 8 bits se llama byte
 de almacenamiento y se abrevia con la letra “B”. La memoria de una computadora que
 puede almacenar 8 millones de bits de información es una memoria de 1 millón de bytes
 
-En la tabla siguiente se muestran los múltiplos de los bytes los cuales hacen referencia a una gran cantidad de bytes contenidos en un archivo o dispositivo de almacenamiento, así como también para cuantificar la capacidad de almacenamiento en la
-memoria principal
+En la tabla siguiente se muestran los múltiplos de los bytes los cuales hacen referencia a una gran cantidad de bytes contenidos en un archivo o dispositivo de almacenamiento y también para medir la capacidad de almacenamiento en la memoria principal:
 
+<img src="Images/IMG 8.jpg" height="400">
