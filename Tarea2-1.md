@@ -58,5 +58,7 @@ y de otros elementos
   - **SISTEMA HEXADECIMAL:** El sistema hexadecimal está basado en la base 16 y utiliza los dígitos del 0 al 9 y las letras A a F para representar números. Es comúnmente utilizado en programación y para representar direcciones de memoria en informática
   
   - **SISTEMA BASE-N:** Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
+
+    <img src="Images/Mapa1.jpg" height="500">
   
 > [*Continuar*](Tarea2-2.md)
