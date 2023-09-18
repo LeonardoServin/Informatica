@@ -126,3 +126,77 @@ FinAlgoritmo
 <img src="Images/DF1.png" height="400" width="600">
 
 **Algoritmo 29:**
+
+```
+
+Algoritmo Muestreo
+    Definir edad, peso, total_peso_ninos, total_peso_jovenes, total_peso_adultos, total_peso_viejos, promedio_ninos, promedio_jovenes, promedio_adultos, promedio_viejos Como Real
+    Definir contador_ninos, contador_jovenes, contador_adultos, contador_viejos Como Entero
+	
+    total_peso_ninos <- 0
+    total_peso_jovenes <- 0
+    total_peso_adultos <- 0
+    total_peso_viejos <- 0
+    contador_ninos <- 0
+    contador_jovenes <- 0
+    contador_adultos <- 0
+    contador_viejos <- 0
+	
+    Para i <- 1 Hasta 50 Hacer
+        Escribir "Ingrese la edad de la persona ", i, ":"
+        Leer edad
+		
+        Escribir "Ingrese el peso de la persona ", i, ":"
+        Leer peso
+		
+        Si edad < 12 Entonces
+            total_peso_ninos <- total_peso_ninos + peso
+            contador_ninos <- contador_ninos + 1
+        Sino
+            Si edad < 18 Entonces
+                total_peso_jovenes <- total_peso_jovenes + peso
+                contador_jovenes <- contador_jovenes + 1
+            Sino
+                Si edad < 60 Entonces
+                    total_peso_adultos <- total_peso_adultos + peso
+                    contador_adultos <- contador_adultos + 1
+                Sino
+                    total_peso_viejos <- total_peso_viejos + peso
+                    contador_viejos <- contador_viejos + 1
+                FinSi
+            FinSi
+        FinSi
+    FinPara
+	
+    Si contador_ninos > 0 Entonces
+        promedio_ninos <- total_peso_ninos / contador_ninos
+    Sino
+        promedio_ninos <- 0
+    FinSi
+	
+    Si contador_jovenes > 0 Entonces
+        promedio_jovenes <- total_peso_jovenes / contador_jovenes
+    Sino
+        promedio_jovenes <- 0
+    FinSi
+	
+    Si contador_adultos > 0 Entonces
+        promedio_adultos <- total_peso_adultos / contador_adultos
+    Sino
+        promedio_adultos <- 0
+    FinSi
+	
+    Si contador_viejos > 0 Entonces
+        promedio_viejos <- total_peso_viejos / contador_viejos
+    Sino
+        promedio_viejos <- 0
+    FinSi
+	
+    Escribir "Promedio de peso de niños:", promedio_ninos
+    Escribir "Promedio de peso de jóvenes:", promedio_jovenes
+    Escribir "Promedio de peso de adultos:", promedio_adultos
+    Escribir "Promedio de peso de viejos:", promedio_viejos
+	
+FinAlgoritmo
+
+```
