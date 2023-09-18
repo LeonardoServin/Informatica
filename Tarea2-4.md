@@ -123,6 +123,6 @@ FinAlgoritmo
 
 ```
 
-<img src="Images/DF1.png" height="500" width="60%">
+<img src="Images/DF1.png" height="550" width="700">
 
 **Algoritmo 29:**
