@@ -123,4 +123,6 @@ FinAlgoritmo
 
 ```
 
+<img src="Images/DF1.jpg" alt="DF" width="60%">
+
 **Algoritmo 29:**
