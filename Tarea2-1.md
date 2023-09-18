@@ -59,3 +59,4 @@ y de otros elementos
   
   - **SISTEMA BASE-N:** Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
   
+> [*Continuar*](Tarea2-2.md)
