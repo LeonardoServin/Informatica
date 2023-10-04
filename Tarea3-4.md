@@ -1,6 +1,6 @@
 # PARTICIONES Y SISTEMAS DE ARCHIVOS
 
-**Para revisar qué es una particion física y lógica de arranque, y qués es GPT Y MBR, revisar [3.2, Conceptos Involucrados](Tarea3-2.md)**
+**Para revisar qué es una particion física y lógica de arranque, y qués es GPT Y MBR, revisar [3.2, Conceptos Involucrados.](Tarea3-2.md)**
 
 ## Fromatear un dispositivo de almacenamiento
 
