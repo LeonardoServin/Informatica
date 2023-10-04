@@ -19,10 +19,13 @@ Software:
 - [Sistemas de codificación](Tarea2-2.md)
 - [Pseudocódigo](Tarea2-3.md)
 - [Algoritmos](Tarea2-4.md)
-- [De Pseudocódigo a R](Tarea2-5.md)
 
 ### UNIDAD III
 Sistemas operativos:
+- [Licenciamiento de Software](Tarea3-1.md)
+- [Instalación de sistemas operativos en un medio extraíble](Tarea3-2.md)
+- [Instalación de sistemas operativos como máquinas virtuales](Tarea3-3.md)
+- [Particiones y sistemas de archivos](Tarea3-4.md)
 
 ### UNIDAD IV
 Bases de datos: 
