@@ -23,11 +23,7 @@ texto, imágenes, sonidos, etc. Los datos son la materia prima que se utiliza en
 informática para realizar operaciones, tomar decisiones y generar resultados
 
 - **TIPOS DE DATOS:**
-Audio
-Imágenes
-Números
-Texto
-Video
+Audio, Imágenes, Números, Video, etc.
 
 - **DATO NUMÉRICO:**
 Los programas utilizados en arquitectura o en ingeniería que procesa una computadora
