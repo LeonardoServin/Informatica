@@ -118,4 +118,4 @@ MBR (Master Boot Record) es un sector especial en el disco duro o unidad de alma
 
 > [Continuar](Tarea3-3.md)
 
-> [Volver](Tarea3-2.md)
+> [Volver](Tarea3-1.md)
