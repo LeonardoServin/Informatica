@@ -87,3 +87,35 @@ La elección entre Windows, macOS y Linux depende en gran medida de las preferen
 
 ## IMAGEN ISO
 
+Una imagen ISO es un archivo que contiene una copia exacta de los datos y la estructura de un disco óptico, como un CD o un DVD. Se utiliza comúnmente para distribuir sistemas operativos, software y otros contenidos en formato digital. Puede ser montada como una unidad virtual o quemada en un disco para su uso en una computadora.
+
+## CONCEPTOS INVOLUCRADOS
+
+**Bootear Equipo:**
+
+Booetear un equipo significa iniciar o cargar el sistema operativo y otros programas esenciales en la memoria RAM desde un dispositivo de almacenamiento, como un disco duro, una unidad USB o un DVD, durante el proceso de arranque o encendido del equipo. Esto permite que la computadora esté lista para su uso y ejecute aplicaciones una vez que el proceso de arranque haya finalizado.
+
+**BIOS:**
+
+El BIOS (Basic Input/Output System, por sus siglas en inglés) es un programa de firmware que reside en un chip de la placa base de una computadora. Su función principal es iniciar y configurar los componentes de hardware esenciales de la computadora durante el proceso de arranque, antes de cargar el sistema operativo. El BIOS también proporciona una interfaz básica para configurar opciones de hardware y realizar diagnósticos en la computadora.
+
+**UEFI:**
+
+UEFI (Unified Extensible Firmware Interface) es un estándar más moderno y versátil en comparación con el tradicional BIOS (Basic Input/Output System). UEFI reemplaza al BIOS en la mayoría de las computadoras modernas y sirve para realizar el proceso de arranque y configuración de hardware de la computadora. UEFI ofrece características avanzadas, como soporte para discos duros de gran capacidad, arranque seguro (Secure Boot), una interfaz gráfica de usuario y mayor flexibilidad en la configuración de hardware. Es una evolución del BIOS que mejora la funcionalidad y la compatibilidad de las computadoras.
+
+**Partición Física y Lógica de Arranque:**
+
+- Partición física de arranque: Es una partición en el disco duro de una computadora que contiene el cargador de arranque y otros archivos esenciales para iniciar el sistema operativo. Esta partición almacena el código necesario para cargar el sistema operativo y se utiliza para el arranque inicial del equipo. En sistemas Windows, se conoce como la partición "System Reserved". En sistemas Linux, esta partición puede ser la partición raíz (root) o una partición separada.
+
+- Partición lógica de arranque: Es una partición en el disco duro que se utiliza para almacenar datos y programas, pero no contiene los archivos necesarios para el arranque del sistema. Se diferencia de la partición física de arranque en que no contiene el cargador de arranque ni los archivos de sistema críticos. Las particiones lógicas son utilizadas para organizar y administrar el espacio de almacenamiento en el disco duro, y no son directamente responsables del proceso de arranque del sistema operativo.
+
+**GPT y MBR:**
+
+GPT (GUID Partition Table) es una especificación de partición de disco que se utiliza para organizar y administrar particiones en discos duros o unidades de estado sólido (SSD) en sistemas informáticos. A diferencia del esquema de partición MBR (Master Boot Record), GPT proporciona ventajas como soporte para discos de mayor capacidad, mayor número de particiones, mayor resistencia a errores y una mayor compatibilidad con sistemas operativos modernos y sistemas con arquitectura UEFI (Unified Extensible Firmware Interface).
+
+MBR (Master Boot Record) es un sector especial en el disco duro o unidad de almacenamiento que almacena información crítica para el proceso de arranque de una computadora. Contiene un cargador de arranque y una tabla de particiones que enumera las ubicaciones y tamaños de las particiones en el disco. MBR se utiliza en sistemas con BIOS tradicional y tiene limitaciones en términos de capacidad de disco y número de particiones en comparación con el esquema de partición GPT (GUID Partition Table).
+
+
+> [Continuar](Tarea3-3.md)
+
+> [Volver](Tarea3-2.md)
